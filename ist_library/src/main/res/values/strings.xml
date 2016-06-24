@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ist_library</string>
+    <string name="ist_token_id">6228631103d9c90c673e4a2d535661d6</string>
+    <string name="ist_facebook_app_id">991124597593080_</string>
+    <string name="ist_default_placement_id">991124597593080_997677793604427</string>
+    <string name="ist_default_placement_interstitial_id">991124597593080_1023884254317114</string>
+</resources>
